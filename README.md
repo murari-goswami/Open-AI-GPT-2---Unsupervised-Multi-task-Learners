@@ -7,7 +7,7 @@ Read the blog post [here](https://soumyadip1995.blogspot.com/2019/02/language-mo
 
 
 
-![alt text](https://i1.wp.com/www.ifthen.ai/wp-content/uploads/2019/02/20561EC6-9ABF-4818-A035-FD1B583079F4.png?fit=1200%2C831&ssl=1)
+
 
 A language model is a machine learning model that is trained to predict the next word given an input context. As such, a model can generate text by generating one word at a time. These predictions can even, to some extent, be constrained by human-provided input to control what the model writes about. Due to their modeling power, large language models have the potential to generate textual output that is indistinguishable from human-written text to a non-expert reader.
 
