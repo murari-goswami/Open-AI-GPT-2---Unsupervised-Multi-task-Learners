@@ -3,8 +3,8 @@
 
 
 
-Read the blog post [here](https://soumyadip1995.blogspot.com/2019/02/language-models-unsupervised-multi-task.html)
-Check out the corressponding Jupyter Notebook [here](https://github.com/soumyadip1995/Open-AI-GPT-2---Unsupervised-Multi-task-Learners/blob/master/Multi_task_learning__(1).ipynb)
+1. Read the blog post [here](https://soumyadip1995.blogspot.com/2019/02/language-models-unsupervised-multi-task.html)
+2. Check out the corressponding Jupyter Notebook [here](https://github.com/soumyadip1995/Open-AI-GPT-2---Unsupervised-Multi-task-Learners/blob/master/Multi_task_learning__(1).ipynb)
 
 ![alt_text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbrZxcxDoi5JoQ3MhC21xsNQjyO6HCCrnMNF0yyLUKp1nYk12x)
 
